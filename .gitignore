@@ -1,0 +1,13 @@
+build/
+dist/
+*.exe
+*.pdb
+*.log
+*.user
+*.suo
+.vs/
+.env
+.env.*
+!*.example
+*.key
+*.pem
